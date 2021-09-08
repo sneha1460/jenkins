@@ -1,6 +1,7 @@
 pipeline
 {
 stages{
+tool m3
 }
 
 }
