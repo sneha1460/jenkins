@@ -2,15 +2,6 @@ pipeline
 {
 <<<<<<< HEAD
 stages{
-stage
-}
 }
 
-=======
-tools
-{
 }
->>>>>>> 04155e49c403065cecc314c6669888f532d5029d
-
-}
-
