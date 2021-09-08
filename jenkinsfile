@@ -1,7 +1,9 @@
 pipeline
 {
 stages{
-tool mvn
+tool m3
+mvn
+deploy
 }
 
 }
