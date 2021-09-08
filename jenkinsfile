@@ -1,7 +1,7 @@
 pipeline
 {
 stages{
-tool m3
+tool mvn
 }
 
 }
